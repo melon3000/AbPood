@@ -1,0 +1,8 @@
+﻿namespace WinFormsApp1
+{
+    public static class ConString
+    {
+        public static string Value = 
+            @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\opilane\source\repos\db2-main\DbUsage2-main\toodeDB.mdf;Integrated Security=True;Connect Timeout=30";
+    }
+}
