@@ -1,5 +1,5 @@
 # AbPood
-### Sql Database Query
+### - Sql Database Creation Query:
 
 CREATE TABLE [dbo].[Kategooria] ( [Id] INT IDENTITY (1, 1) NOT NULL, [Kategooria_nimetus] NVARCHAR (50) NOT NULL, [Kirjendus] TEXT NULL, PRIMARY KEY CLUSTERED ([Id] ASC) );
 
